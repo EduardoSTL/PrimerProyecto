@@ -1,11 +1,14 @@
 body {
     background-color: aliceblue;
-    width: 300px;
+    width: 900px;
     margin: auto;
 
 }
 p {
-    color: aquamarine;
+    color: red;
+    font-size: larger;
+    width: 300px;
     font-size: larger;
     text-align: justify;
+    border: 5px solid black;
 }
